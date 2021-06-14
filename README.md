@@ -1,5 +1,5 @@
 # css-circles
 
 <div align="center">
-    <img src="circles.svg" width="400" height="400">
+    <img src="bars.svg" width="50" height="50">
 </div>
