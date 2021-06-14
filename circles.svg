@@ -41,6 +41,19 @@
 .bars:after {
   left: .7em;
 }
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0;
+    height: 2em;
+  }
+  40% {
+    box-shadow: 0 -2em;
+    height: 3em;
+  }
+}
+
             </style>
           <div class='bars'></div>
         </div>
