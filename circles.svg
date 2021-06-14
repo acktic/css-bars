@@ -5,7 +5,7 @@
 .bars,
 .bars:before,
 .bars:after {
-  background: var(--fill-color);
+  background: transparent;
   -webkit-animation: load1 1s infinite ease-in-out;
   animation: load1 1s infinite ease-in-out;
   width: .5em;
